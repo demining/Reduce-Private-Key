@@ -233,6 +233,231 @@ HEX:  38717b5161c2e817020a0933e1836dd0127bdef59732d77daca20ccfbf61a7ae</code></p
 <p><a href="https://cryptodeeptech.ru/reduce-private-key"><strong>Source:&nbsp;https://cryptodeeptech.ru/reduce-private-key</strong></a></p>
 <hr class="wp-block-separator has-alpha-channel-opacity">
 </div>
+<footer class="entry-footer">
+<div class="cat-links"></div>
+</footer>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<div class="cat-links"><i class="fa fa-folder-open" aria-hidden="true"></i> <a href="https://cryptodeeptech.ru/category/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8/" rel="category tag">Без рубрики</a></div>	</footer><!-- .entry-footer -->
+</article><!-- #post-355 -->
+
+	<nav class="navigation post-navigation" aria-label="Записи">
+		<h2 class="screen-reader-text">Навигация по записям</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://cryptodeeptech.ru/endomorphism/" rel="prev">Speed ​​up secp256k1 with endomorphism</a></div><div class="nav-next"><a href="https://cryptodeeptech.ru/shortest-ecdsa-signature/" rel="next">Bitcoin Wallet Recovery via ECDSA Short Signatures</a></div></div>
+	</nav>		<div id="itng_related_posts_wrapper">
+			<h3 id="itng_related_posts_title">Related Posts</h3>
+			<div class="itng-related-posts row">
+				<article id="post-270" class="itng-blog col-md-6 col-lg-4 post-270 post type-post status-publish format-standard hentry category-1">
+		<div class="itng-card-wrapper">
+			<div class="itng-thumb">
+							</div>
+			
+			<div class="itng-card-content">
+				<div class="entry-meta">
+					<a href="https://cryptodeeptech.ru/algorithms-for-secp256k/"></a>
+					<span class="byline"> <span class="author vcard"><a class="url fn n" href="https://cryptodeeptech.ru/author/cryptodeeptech/">Crypto Deep Tech</a></span></span>				</div><!-- .entry-meta -->
+				
+				<header class="entry-header">
+					<h2 class="entry-title"><a href="https://cryptodeeptech.ru/algorithms-for-secp256k/">Useful and efficient algorithms for secp256k1 elliptic curve</a></h2>				</header><!-- .entry-header -->
+				
+				<div class="itng_excerpt">
+					In this article, we will consider several useful and efficient algorithms for an elliptic curve&nbsp;&nbsp;E&nbsp;&nbsp;over a field&nbsp;&nbsp;GF(p)&nbsp;&nbsp;given by the short Weierstrass equation у^2&nbsp;= х^3&nbsp;+ Ах + В &nbsp;Algorithm for generating a point on curve&nbsp;&nbsp;E &nbsp;Algorithm for adding points &nbsp;Doubling Point Algorithm &nbsp;Algorithm for finding an integer multiple point &nbsp;Algorithm for finding an integer multiple point (scalar multiplication)…				</div>
+				
+				<div class="blog-footer">
+					<div class="itng_cats">
+						<a href="https://cryptodeeptech.ru/category/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8/" rel="category tag">Без рубрики</a>					</div>
+					<div class="blog-comments">
+						0					</div>
+				</div>
+			</div>
+		</div>
+</article><!-- #post-270 --><article id="post-127" class="itng-blog col-md-6 col-lg-4 post-127 post type-post status-publish format-standard hentry category-1">
+		<div class="itng-card-wrapper">
+			<div class="itng-thumb">
+							</div>
+			
+			<div class="itng-card-content">
+				<div class="entry-meta">
+					<a href="https://cryptodeeptech.ru/check-bitcoin-address-balance/"></a>
+					<span class="byline"> <span class="author vcard"><a class="url fn n" href="https://cryptodeeptech.ru/author/cryptodeeptech/">Crypto Deep Tech</a></span></span>				</div><!-- .entry-meta -->
+				
+				<header class="entry-header">
+					<h2 class="entry-title"><a href="https://cryptodeeptech.ru/check-bitcoin-address-balance/">How to Convert Bitcoin-PUBKEY HEX Public Keys to Base58 Bitcoin Address and Check Balance for BTC Coins</a></h2>				</header><!-- .entry-header -->
+				
+				<div class="itng_excerpt">
+					In this article, we will learn how to check the balance of Bitcoin coins in a large amount of data using the bitcoin-checker.py Python script for&nbsp;&nbsp;this&nbsp;. The result of checking the Python script bitcoin-checker.py We will also learn how to convert the public key of Bitcoin&nbsp;&nbsp;PUBKEY (HEX)&nbsp;to Bitcoin Address&nbsp;&nbsp;(Base58)&nbsp;All this big work is done&nbsp;&nbsp;by the Python script&nbsp;&nbsp;pubtoaddr.py…				</div>
+				
+				<div class="blog-footer">
+					<div class="itng_cats">
+						<a href="https://cryptodeeptech.ru/category/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8/" rel="category tag">Без рубрики</a>					</div>
+					<div class="blog-comments">
+						0					</div>
+				</div>
+			</div>
+		</div>
+</article><!-- #post-127 --><article id="post-294" class="itng-blog col-md-6 col-lg-4 post-294 post type-post status-publish format-standard hentry category-1">
+		<div class="itng-card-wrapper">
+			<div class="itng-thumb">
+							</div>
+			
+			<div class="itng-card-content">
+				<div class="entry-meta">
+					<a href="https://cryptodeeptech.ru/vulnerable-openssl/"></a>
+					<span class="byline"> <span class="author vcard"><a class="url fn n" href="https://cryptodeeptech.ru/author/cryptodeeptech/">Crypto Deep Tech</a></span></span>				</div><!-- .entry-meta -->
+				
+				<header class="entry-header">
+					<h2 class="entry-title"><a href="https://cryptodeeptech.ru/vulnerable-openssl/">Search for BTC coins on earlier versions of Bitcoin Core with critical vulnerability OpenSSL 0.9.8 CVE-2008-0166</a></h2>				</header><!-- .entry-header -->
+				
+				<div class="itng_excerpt">
+					In this article, we will create a tool that will generate Bitcoin Addresses (P2PKH) using the CVE-2008-0166 vulnerability.&nbsp;This is a research project to find BTC coins on earlier versions of the Bitcoin Core software client. Random number generator&nbsp;that generates&nbsp;&nbsp;predictable numbers&nbsp;&nbsp;CVE-2008-0166 VAIM-OpenSSL 0.9.8/1.0.0 Detected The critical vulnerability version&nbsp;&nbsp;OpenSSL 0.9.8&nbsp;CVE-2008-0166 was&nbsp;&nbsp;populated with process ID only.&nbsp;Due to differences between endianness…				</div>
+				
+				<div class="blog-footer">
+					<div class="itng_cats">
+						<a href="https://cryptodeeptech.ru/category/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8/" rel="category tag">Без рубрики</a>					</div>
+					<div class="blog-comments">
+						0					</div>
+				</div>
+			</div>
+		</div>
+</article><!-- #post-294 -->			</div>
+		</div>
+			<div id="author_box" class="row no-gutters">
+			<div class="author_avatar col-2">
+							</div>
+			<div class="author_info col-10">
+				<h4 class="author_name title-font">
+					Crypto Deep Tech				</h4>
+				<div class="author_bio">
+									</div>
+			</div>
+		</div>
+	
+	</main><!-- #main -->
+
+<!--WCLEARFY_PAGE_TYPE_post--><!--WCLEARFY_FOOTER_START--></div><!-- #content-wrapper -->
+
+
+ <div id="footer-sidebar" class="widget-area">
+    <div class="container">
+        <div class="row">
+                    </div>
+    </div>
+</div>
+	<footer id="colophon" class="site-footer">
+		<div class="container">
+			<div class="site-info">
+				Donation Address: <a href="https://www.blockchain.com/btc/address/1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v" target="_blank">♥  BTC: 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v</a>				<span class="sep"> | </span>
+					Copyright © 2022 «CRYPTO DEEP TECH». 			</div><!-- .site-info -->
+		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<nav id="menu" class="panel" role="navigation" style="position: fixed; top: 0px; bottom: 0px; height: 100%; left: -15.625em; width: 15.625em;">
+	<div class="menu-overlay"></div>
+	<div id="panel-top-bar">
+		<button class="go-to-bottom"></button>
+		<button id="close-menu" class="menu-link"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+	</div>
+
+	<ul id="menu-main" class="menu"><li class="page_item page-item-53"><a href="https://cryptodeeptech.ru/contacts/">CONTACTS</a></li>
+<li class="page_item page-item-43"><a href="https://cryptodeeptech.ru/publication/">PUBLICATIONS</a></li>
+<li class="page_item page-item-55"><a href="https://cryptodeeptech.ru/resources/">RESOURCES</a></li>
+<li class="page_item page-item-49"><a href="https://cryptodeeptech.ru/study/">STUDY</a></li>
+</ul>
+
+	<button class="go-to-top"></button>
+</nav>
+
+<div id="sticky-navigation">
+	<div class="nav-wrapper">
+		 <div class="container">
+
+			 <div class="row justify-content-end align-items-center justify-content-between no-gutters">
+
+
+				<div class="main-navigation col-lg-9" role="navigation">
+					<ul id="menu-desktop" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-229"><a href="https://cryptodeeptech.ru/">HOME</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a href="https://cryptodeeptech.ru/publication/">PUBLICATIONS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https://cryptodeeptech.ru/study/">STUDY</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https://cryptodeeptech.ru/resources/">RESOURCES</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="https://cryptodeeptech.ru/contacts/">CONTACTS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-240"><a href="https://cryptodeeptech.ru/lattice-attack/">BLOG</a></li>
+</ul>				</div>
+
+				<button href="#menu" class="menu-link mobile-nav-btn"><i class="fa fa-bars" aria-hidden="true"></i></button>
+
+				<button type="button" id="go-to-field" tabindex="-1"></button>
+
+				<button class="search-btn-sticky ml-auto col-auto"><i class="fa fa-search"></i></button>
+				
+<div class="itng-search-sticky">
+	<form role="search" method="get" class="search-form" action="https://cryptodeeptech.ru/">
+				<label>
+					<span class="screen-reader-text">Найти:</span>
+					<input type="search" class="search-field" placeholder="Поиск…" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="Поиск">
+			</form>	<button type="button" id="go-to-btn" tabindex="-1"></button>
+</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="itng-back-to-top" class="show"><i class="fa fa-chevron-up" aria-hidden="true"></i></div>
+
+		<script type="text/javascript">
+							jQuery("#post-355 .entry-meta .date").css("display","none");
+					jQuery("#post-355 .entry-date").css("display","none");
+					jQuery("#post-355 .posted-on").css("display","none");
+							jQuery("#post-270 .entry-meta .date").css("display","none");
+					jQuery("#post-270 .entry-date").css("display","none");
+					jQuery("#post-270 .posted-on").css("display","none");
+							jQuery("#post-127 .entry-meta .date").css("display","none");
+					jQuery("#post-127 .entry-date").css("display","none");
+					jQuery("#post-127 .posted-on").css("display","none");
+							jQuery("#post-294 .entry-meta .date").css("display","none");
+					jQuery("#post-294 .entry-date").css("display","none");
+					jQuery("#post-294 .posted-on").css("display","none");
+				</script>
+	<script src="./Reducing the private key through scalar multiplication using the ECPy + Google Colab library - «CRYPTO DEEP TECH»_files/wmac_single_2b1ae4cca3cc8d12c39be42768565308.js" id="big-slide-js"></script>
+<script src="./Reducing the private key through scalar multiplication using the ECPy + Google Colab library - «CRYPTO DEEP TECH»_files/wmac_single_ccdf893e7d8b26933af0c336bcc3943e.js" id="owl-js-js"></script>
+<script src="./Reducing the private key through scalar multiplication using the ECPy + Google Colab library - «CRYPTO DEEP TECH»_files/jquery.magnific-popup.min.js" id="mag-lightbox-js-js"></script>
+<script id="itng-custom-js-js-extra">
+var itng = {"toTopEnable":"1","stickyNav":""};
+</script>
+<script src="./Reducing the private key through scalar multiplication using the ECPy + Google Colab library - «CRYPTO DEEP TECH»_files/wmac_single_ea8874ba65dbd53bf5c7fb5c619ac579.js" id="itng-custom-js-js"></script>
+<script src="./Reducing the private key through scalar multiplication using the ECPy + Google Colab library - «CRYPTO DEEP TECH»_files/wmac_single_6ec0e9b3201c83a442e24aba829a5f05.js" id="itng-navigation-js"></script>
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(89424273, "init", {  id:89424273, clickmap:true, trackLinks:true, webvisor:true, accurateTrackBounce:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/89424273" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   var z = null;m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(89995532, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/89995532" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Кэширование страницы с использованием disk: enhanced 
+
+Served from: cryptodeeptech.ru @ 2022-08-25 21:46:10 by W3 Total Cache
+--></body></html>
 
 ---
 
