@@ -231,6 +231,8 @@ HEX:  38717b5161c2e817020a0933e1836dd0127bdef59732d77daca20ccfbf61a7ae</code></p
 <p><a href="https://t.me/cryptodeeptech"><strong>Telegram</strong></a><strong>&nbsp;:&nbsp;&nbsp;</strong><a href="https://t.me/cryptodeeptech" target="_blank" rel="noreferrer noopener"><strong><u>https://t.me/cryptodeeptech</u></strong></a></p>
 <p><a href="https://youtu.be/zu2yiaZ_LOs" target="_blank" rel="noreferrer noopener"><strong>Video: https://youtu.be/zu2yiaZ_LOs</strong></a></p>
 <p><a href="https://cryptodeeptech.ru/reduce-private-key"><strong>Source:&nbsp;https://cryptodeeptech.ru/reduce-private-key</strong></a></p>
+<hr class="wp-block-separator has-alpha-channel-opacity">
+</div>
 
 ---
 
