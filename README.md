@@ -307,7 +307,7 @@ with open("Coordinates.txt", "rt") as base:
         with open("SaveBase.txt", "a") as file:
             file.write(str(A))
             file.write("\n")</code></pre>
-<hr class="wp-block-separator has-alpha-channel-opacity">
+
 <h2>Let’s run the script:</h2>
 <pre class="wp-block-code"><code>python3 scalarEC.py
 
@@ -317,7 +317,7 @@ with open("Coordinates.txt", "rt") as base:
 
 cat SaveBase.txt
 </code></pre>
-<figure class="wp-block-image"><img src="./Reducing the private key through scalar multiplication using the ECPy Google Colab library - «CRYPTO DEEP TECH»_files/cf3657dd0b79a3ce0e5cdaa44120e4ba.png" alt="Reducing the private key through scalar multiplication using the ECPy + Google Colab library"></figure>
+<img src="./Reducing the private key through scalar multiplication using the ECPy Google Colab library - «CRYPTO DEEP TECH»_files/cf3657dd0b79a3ce0e5cdaa44120e4ba.png" alt="Reducing the private key through scalar multiplication using the ECPy + Google Colab library"></figure>
 <pre class="wp-block-code"><code>(0x92b9eeebb8c4fa108359bd31367e36b7fe65b4a7e06d533b476dee097572a4c0 , 0x4d2beb1835a2f8b85e3f61d32094dbf0b4c7a212bee42ee4612193c0653c6e56)
 (0x65304d24c0edc862843587a96ea700f86e9e70e7801ac7df9efd2de84230c3e7 , 0x7af6d83573849d2368a021e835c5768e1b791c0c1b4cfafb9795058df5f27958)
 (0x433c15b724948371877dd3c1014d59d1a13d76a29e4948903623a74767736b97 , 0x13f15f3bb28a4766952e10da9717aa3cc0bad90b0414f483718531d584721ea3)
